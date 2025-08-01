@@ -5,7 +5,7 @@
 
 
 ## **Description**
-It is an **Magnetic Resonance Imaging** dataset
+It is a **Magnetic Resonance Imaging** dataset
 
 ## **Demography**
 + **Country:** 
