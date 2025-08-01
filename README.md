@@ -1,2 +1,2 @@
 # Prostate_cancer_images
-This folder contains curated prostate cancer dataset from different sources with their features. 
+This repository contains an interactive mind map that makes it easy to navigate through all available prostate cancer image dataset from different sources with their features. 
