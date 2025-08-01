@@ -3,7 +3,6 @@
 
 **_Article Link_:** [ref](https://pubs.rsna.org/doi/pdf/10.1148/radiol.222276)
 
-
 ## **Description**
 It is a **Magnetic Resonance Imaging** dataset
 
@@ -18,12 +17,18 @@ It is a **Magnetic Resonance Imaging** dataset
 + **Number of image patches:** 3260 patches
 + **Image classification:** Multiclass
   
-
 ## **Patient's information**
 + **Number of patients:** 1224 men
 + **Average Age of the patients (year):** 67(62-73)
 + **Prostate specific antigen (ng/ml):** 8.28 (0.35-134)
 
+## **Dataset Availability**
+
+|**Status**|**Dataset Link**|**DOI**|
+|:---:|:---:|:---:|
+|Publicly available| [Dataset](https://www.cancerimagingarchive.net/nbia-search/?CollectionCriteria=PROSTATEx)|
+
+  
 ## **Cite this Article**
 
 ❗🛑 **If you are using this resource, please cite:**
