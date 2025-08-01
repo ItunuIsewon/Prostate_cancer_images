@@ -26,7 +26,9 @@ It is a **Magnetic Resonance Imaging** dataset
 
 |**Status**|**Dataset Link**|**DOI**|
 |:---:|:---:|:---:|
-|Publicly available| [Dataset](https://www.cancerimagingarchive.net/nbia-search/?CollectionCriteria=PROSTATEx)|
+|Publicly available| [Dataset](https://www.cancerimagingarchive.net/nbia-search/?CollectionCriteria=PROSTATEx)| 10.1148/radiol.222276
+
+
 
   
 ## **Cite this Article**
