@@ -25,7 +25,7 @@ It is a **Magnetic Resonance Imaging** dataset.
 
 |**Status**|**Dataset Link**|**DOI**|
 |:---:|:---:|:---:|
-|Publicly available| [Dataset](https://pubmed.ncbi.nlm.nih.gov/37750774/)| 10.1148/radiol.230427
+|Available upon request| [Dataset](https://pubmed.ncbi.nlm.nih.gov/37750774/)| 10.1148/radiol.230427
 
 ## **Cite this article**
 
