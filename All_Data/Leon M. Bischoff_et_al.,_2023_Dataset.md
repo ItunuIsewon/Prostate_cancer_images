@@ -20,3 +20,18 @@ It is a **Magnetic Resonance Imaging** dataset.
 + **Number of patients:** 109 men
 + **Average Age of the patients (year):**  68
 + **Prostate specific antigen (ng/ml):** 10.8
+
+## **Dataset Availability**
+
+|**Status**|**Dataset Link**|**DOI**|
+|:---:|:---:|:---:|
+|Publicly available| [Dataset](https://pubmed.ncbi.nlm.nih.gov/37750774/)| 10.1148/radiol.230427
+
+## **Cite this article**
+
+❗🛑 **If you are using this resource, please cite:**
+
+'''
+Leon M Bischoff, Johannes M Peeters, Leonie Weinhold, Philipp Krausewitz, Jörg Ellinger, Christoph Katemann, Alexander Isaak, Oliver M Weber, Daniel Kuetting, Ulrike Attenberger, Claus C Pieper, Alois M Sprinkart, Julian A Luetkens (2023). Deep Learning Super-Resolution Reconstruction for Fast and Motion-Robust T2Weighted-Prostate MRI. 10.1148/radiol.230427
+
+
