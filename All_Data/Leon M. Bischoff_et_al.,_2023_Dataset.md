@@ -30,8 +30,7 @@ It is a **Magnetic Resonance Imaging** dataset.
 ## **Cite this article**
 
 ❗🛑 **If you are using this resource, please cite:**
-
-'''
+```
 Leon M Bischoff, Johannes M Peeters, Leonie Weinhold, Philipp Krausewitz, Jörg Ellinger, Christoph Katemann, Alexander Isaak, Oliver M Weber, Daniel Kuetting, Ulrike Attenberger, Claus C Pieper, Alois M Sprinkart, Julian A Luetkens (2023). Deep Learning Super-Resolution Reconstruction for Fast and Motion-Robust T2Weighted-Prostate MRI. 10.1148/radiol.230427
-
+```
 
