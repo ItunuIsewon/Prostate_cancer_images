@@ -1,4 +1,4 @@
-# **Zhang et al., 2024 Image Dataset**
+<img width="263" height="21" alt="image" src="https://github.com/user-attachments/assets/7be71a5a-2557-41f9-b28a-aea7e59439d1" /># **Zhang et al., 2024 Image Dataset**
 **Article Title:** Deep learning algorithm-based multimodal MRI radiomics and pathomics data improve prediction of bone metastases in primary prostate cancer
 
 **_Article Link_:** [ref](https://link.springer.com/article/10.1007/s00432-023-05574-5)
@@ -27,8 +27,7 @@ It is a **Histopathology image** and **Magnetic resonance imaging** dataset
 
 |**Status**|**Dataset Link**|**DOI**|
 |:---:|:---:|:---:|
-|Not publicly available|  | 10.1148/radiol.222276
-
+|Not publicly available|  | 10.1007/s00432-023-05574-5
 
   
 ## **Cite this Article**
@@ -36,6 +35,6 @@ It is a **Histopathology image** and **Magnetic resonance imaging** dataset
 ❗🛑 **If you are using this resource, please cite:**
 
 ```
-Charlie A. Hamm , Georg L. Baumgärtner, Felix Biessmann, Nick L. Beetz, Alexander Hartenstein, Lynn J. Savic, Konrad Froböse, Franziska Dräger, Simon Schallenberg, Madhuri Rudolph, Alexander D. J. Baur, Bernd Hamm, Matthias Haas, Sebastian Hofbauer, Hannes Cash, Tobias Penzkofer. (2023). Interactive Explainable Deep Learning Model Informs Prostate Cancer Diagnosis at MRI. 10.1148/radiol.222276
+ Yun‑Feng Zhang, Chuan Zhou, Sheng Guo, Chao Wang, Jin Yang, Zhi‑Jun Yang, Rong Wang, Xu Zhang, Feng‑Hai Zhou1. (2024). Deep learning algorithm-based multimodal MRI radiomics and pathomics data improve prediction of bone metastases in primary prostate cancer. 10.1007/s00432-023-05574-5
 
 ```
