@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://link.springer.com/article/10.1007/s00432-023-05574-5)
 
 ## **Description**
-It is a **Histopathology image** and **Magnetic resonance imaging** dataset
+It is a **radiomics** and **pathomics** dataset
 
 ## **Demography**
 + **Country:** U.S.A
