@@ -14,9 +14,7 @@ It is a **Magnetic Resonance Imaging** dataset
 + **Scanner type:**  3-T MRI scanner (Ingenia Elition X, Class IIa; Philips Healthcare) using a 16-channel surface coil (Sense; Philips Healthcare)
 + **MRI sequence:** T2WI/DWI
 + **Field of Strength:** 3-T
-+ **Number of image patches:** 
 + **Number of lesions:** 1029 lesions
-+ **Image classification:** Multiclass
   
 ## **Patient's information**
 + **Number of patients:** 658 men
