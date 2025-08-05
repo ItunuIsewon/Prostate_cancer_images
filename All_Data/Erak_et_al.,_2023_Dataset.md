@@ -14,10 +14,6 @@ It is an **histopathological images** dataset
 + **Scanner type:** Hamamatsu s360
 + **Staining:** Hematoxylin and eosin stain
 + **Scanner magnification:** 40x and 20x
-+ **MRI sequence:** 
-+ **Field of Strength:** 3-T
-+ **Number of image patches:** 3260 patches
-+ **Image classification:** Multiclass
   
 ## **Patient's information**
 + **Number of patients:** 330 men
