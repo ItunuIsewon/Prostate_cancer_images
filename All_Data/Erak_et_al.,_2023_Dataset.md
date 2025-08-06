@@ -1,4 +1,4 @@
-## **Erak et al., 2023 Image Dataset**
+# **Erak et al., 2023 Image Dataset**
 **Article Title:** Predicting Prostate Cancer Molecular Subtype With Deep Learning on Histopathologic Images
 
 **_Article Link_:** [ref](https://pubmed.ncbi.nlm.nih.gov/37307876/)
