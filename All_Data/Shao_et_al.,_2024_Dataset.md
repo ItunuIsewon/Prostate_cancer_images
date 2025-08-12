@@ -1,9 +1,6 @@
 ## **Shao et al., Image Dataset**
 **Article Title:** Prostate Cancer Risk Stratification by Digital Histopathology and Deep Learning
 
-**_Article Link_:** [ref](# **Charlie et al., 2023 Image Dataset**
-**Article Title:** Interactive Explainable Deep Learning Model Informs Prostate Cancer Diagnosis at MRI
-
 **_Article Link_:** [ref](https://ascopubs.org/doi/full/1a200/CCI.23.00184)
 
 ## **Description**
