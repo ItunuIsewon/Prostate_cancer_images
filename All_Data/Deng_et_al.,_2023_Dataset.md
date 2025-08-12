@@ -13,7 +13,7 @@ It is a **Magnetic Resonance Imaging** dataset
 ## **Imaging Technique**
 + **Scanner type:**  3.0T MRI (Verio, Siemens, Germany) or 1.5T MRI (Avanto, Seimens, Germany)
 + **MRI sequence:** T2WI/DWI
-+ + **Image Stain:** Ki67
++ **Image Stain:** Ki67
 + **Field of Strength:** 3-T
   
 ## **Patient's information**
