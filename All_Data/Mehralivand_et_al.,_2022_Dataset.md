@@ -1,7 +1,7 @@
 # **Mehralivand et al., 2023 Image Dataset**
 **Article Title:** Deep learning-based artificial intelligence for prostate cancer detection at biparametric MRI
 
-**_Article Link_:** [ref](https://pubs.rsna.org/doi/pdf/10.1148/radiol.222276)
+**_Article Link_:** [ref](https://link.springer.com/article/10.1007/s00261-022-03419-2)
 
 ## **Description**
 It is a **Magnetic Resonance Imaging** dataset
