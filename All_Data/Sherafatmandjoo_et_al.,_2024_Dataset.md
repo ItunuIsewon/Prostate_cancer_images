@@ -1,5 +1,5 @@
-# **Charlie et al., 2023 Image Dataset**
-**Article Title:** Interactive Explainable Deep Learning Model Informs Prostate Cancer Diagnosis at MRI
+# **Sherafatmandjoo et al., 2024 Image Dataset**
+**Article Title:** Prostate cancer diagnosis based on multi-parametric MRI, clinical and pathological factors using deep learning
 
 **_Article Link_:** [ref](https://www.nature.com/articles/s41598-024-65354-0)
 
