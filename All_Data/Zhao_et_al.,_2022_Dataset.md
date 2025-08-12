@@ -14,13 +14,13 @@ It is a **Magnetic Resonance Imaging** dataset
 + **Scanner type:**    3.0-T scanners (SUH 1st, Siemens Skyra; SUH 2nd, Philips Ingenia; ZJGH, Philips Achieva; SKH, Siemens Skyra; TZH, Siemens Skyra and Vero; SQH, Philips Ingenia; and CSH, Philips Achieva TX)
 + **MRI sequence:** T2WI/DWI
 + **Field of Strength:** 3-T
-+ **Number of image patches:** 3260 patches
 + **Image classification:** Multiclass
   
 ## **Patient's information**
 + **Number of patients:** 545/570/130/114/278/17/302 RESPECTIVELY
 + **Average Age of the patients (year):** SUH 1ST(72(66-74))/SUH 2ND( 69(64-76))/ZJGH(73(68-77); SKH(69(64-75))/ TZH(73(68-79))/ CSH+SQH(70(65-75))
 + **Prostate specific antigen (ng/ml):** <10/<20/>=20
+
 
 ## **Dataset Availability**
 
@@ -29,7 +29,6 @@ It is a **Magnetic Resonance Imaging** dataset
 |Available upon request| [Dataset](https://link.springer.com/article/10.1007/s00259-022-06036-9)| 10.1007/s00259-022-06036-9
 
 
-  
 ## **Cite this Article**
 
 ❗🛑 **If you are using this resource, please cite:**
