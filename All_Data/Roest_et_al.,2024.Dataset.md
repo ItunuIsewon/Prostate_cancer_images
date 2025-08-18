@@ -8,7 +8,7 @@
 It is a **Magnetic Resonance Imaging** dataset
 
 ## **Demography**
-+ **Country:** Portugal
++ **Country:** Netherlands
 + **Location of data collection:** University Medical Center Groningen / Martini Ziekenhuis Groningen
 
 ## **Imaging Technique**
