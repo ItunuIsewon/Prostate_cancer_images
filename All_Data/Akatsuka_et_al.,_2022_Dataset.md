@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://www.nature.com/articles/s41598-022-04951-3#Sec13)
 
 ## **Description**
-It is a **Magnetic Resonance Imaging** dataset
+It is a **Histopathological images** dataset
 
 ## **Demography**
 + **Country:** Japan
