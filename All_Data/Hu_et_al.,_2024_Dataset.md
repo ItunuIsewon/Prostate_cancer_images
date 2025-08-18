@@ -1,4 +1,4 @@
-## **Hu et al., 2023 Image Dataset**
+# **Hu et al., 2023 Image Dataset**
 **Article Title:** Development and Validation of a Deep Learning Model to Reduce the Interference of Rectal Artifacts in MRI-based Prostate Cancer Diagnosis
 
 **_Article Link_:** [ref](https://pubs.rsna.org/doi/10.1148/ryai.230362)
