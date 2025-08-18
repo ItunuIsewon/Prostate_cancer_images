@@ -13,7 +13,7 @@ It is a **Magnetic Resonance Imaging** dataset
 ## **Imaging Technique**
 + **Scanner type:** 1.5-T or 3-T MRI scanners (Siemens Healthineers or Philips Medical Systems)
 + **MRI sequence:** T2WI/ADC
-+ **Field of Strength:** 3-T
++ **Field of Strength:** 1.5-T or 3-T
 + **Number of MRI scans:** 1500 
 + **Image classification:** 
   
