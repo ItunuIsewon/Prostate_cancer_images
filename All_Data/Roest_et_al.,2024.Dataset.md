@@ -15,8 +15,8 @@ It is a **Magnetic Resonance Imaging** dataset
 + **Scanner type:**   3 T Skyra (63%), 3 T Prisma (29%), 1.5 T Aera (5%), and other (3%), Siemens Healthineers, Erlangen, Germany. Center 2 scanners -3 T Ingenia (95%), 1.5 T Intera (2%), and 1.5 T Achieva dStream (2%), Philips Medical Systems, Best, the Netherlands
 + **MRI sequence:** T2WI/DWI
 + **Field of Strength:** 3-T
-+ **Number of image patches:** 3260 patches
-+ **Image classification:** Multiclass
++ **Number of image patches:** 
++ **Image classification:**
   
 ## **Patient's information**
 + **Number of patients:** 322/529 men
