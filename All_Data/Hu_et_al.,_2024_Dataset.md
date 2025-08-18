@@ -1,4 +1,4 @@
-<img width="246" height="21" alt="image" src="https://github.com/user-attachments/assets/b2593b4a-b883-4d76-bd80-6bbe8604578b" /># **Hu et al., 2023 Image Dataset**
+## **Hu et al., 2023 Image Dataset**
 **Article Title:** Development and Validation of a Deep Learning Model to Reduce the Interference of Rectal Artifacts in MRI-based Prostate Cancer Diagnosis
 
 **_Article Link_:** [ref](https://pubs.rsna.org/doi/10.1148/ryai.230362)
@@ -27,8 +27,7 @@ It is a **Magnetic Resonance Imaging** dataset
 
 |**Status**|**Dataset Link**|**DOI**|
 |:---:|:---:|:---:|
-|Publicly available| [Dataset](https://www.cancerimagingarchive.net/nbia-search/?CollectionCriteria=PROSTATEx)| 10.1148/radiol.222276
-
+|Available upon request| [Dataset](https://pubs.rsna.org/doi/10.1148/ryai.230362)| 10.1148/ryai.230362
 
   
 ## **Cite this Article**
@@ -36,6 +35,5 @@ It is a **Magnetic Resonance Imaging** dataset
 ❗🛑 **If you are using this resource, please cite:**
 
 ```
-Charlie A. Hamm , Georg L. Baumgärtner, Felix Biessmann, Nick L. Beetz, Alexander Hartenstein, Lynn J. Savic, Konrad Froböse, Franziska Dräger, Simon Schallenberg, Madhuri Rudolph, Alexander D. J. Baur, Bernd Hamm, Matthias Haas, Sebastian Hofbauer, Hannes Cash, Tobias Penzkofer. (2023). Interactive Explainable Deep Learning Model Informs Prostate Cancer Diagnosis at MRI. 10.1148/radiol.222276
-
+Lei Hu*, Xiangyu Guo*, Dawei Zhou, Zhen Wang, Lisong Dai, Liang Li, Ying Li, Tian Zhang, Haining Long, Chengxin Yu, Zhen-wei Shi, Chu Han, Cheng Lu, Jungong Zhao, Yuehua Li, Yunfei Zha, Zaiyi Liu. (2024). Development and Validation of a Deep Learning Model to Reduce the Interference of Rectal Artifacts in MRI-based Prostate Cancer Diagnosis. 10.1148/ryai.230362
 ```
