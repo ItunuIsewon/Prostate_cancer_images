@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://pubmed.ncbi.nlm.nih.gov/37988414/)
 
 ## **Description**
-It is a **Magnetic Resonance Imaging** dataset
+It is a **histopathological images** dataset
 
 ## **Demography**
 + **Country:** China, South Korea, Malaysia
@@ -14,7 +14,7 @@ It is a **Magnetic Resonance Imaging** dataset
 ## **Imaging Technique**
 + **Scanner type:**   
 + **MRI sequence:** 
-+ **Field of Strength:** 3-T
++ **Field of Strength:** 
 + **Number of image patches:** 
   
 ## **Patient's information**
