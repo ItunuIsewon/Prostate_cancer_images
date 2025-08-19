@@ -12,15 +12,16 @@ It is a **Magnetic Resonance Imaging** dataset
 
 ## **Imaging Technique**
 + **Scanner type:** 3 Tesla scanner (Discovery MR 750w, GE, Waukesha, WI USA)
-+ **MRI sequence:** T2WI/DWI
++ **MRI sequence:** T2WI/DCE/ADC
 + **Field of Strength:** 3-T
 + **Number of lesions:** 280 lesions
-+ **Image classification:** 
++ **Image classification:** Multiclass
   
 ## **Patient's information**
 + **Number of patients:** 170 men
 + **Average Age of the patients (year):** 66.8 (61-73)
 + **Prostate specific antigen (ng/ml):** 6.3
++ **Prostate volume:** 57.2
 
 ## **Dataset Availability**
 
