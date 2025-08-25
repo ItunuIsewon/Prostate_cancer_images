@@ -1,4 +1,4 @@
-# **Charlie et al., 2021 Image Dataset**
+# **Bulten et al., 2021 Image Dataset**
 **Article Title:** Artificial intelligence assistance significantly improves Gleason grading of prostate biopsies by pathologists
 
 **_Article Link_:** [ref](https://pubmed.ncbi.nlm.nih.gov/32759979/)
