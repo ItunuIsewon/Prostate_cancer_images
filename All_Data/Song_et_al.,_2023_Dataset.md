@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://pubmed.ncbi.nlm.nih.gov/37988414/)
 
 ## **Description**
-It is a **histopathological images** dataset
+It is a **pathiomics** dataset
 
 ## **Demography**
 + **Country:** China, South Korea, Malaysia
