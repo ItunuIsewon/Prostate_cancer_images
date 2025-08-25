@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://pubmed.ncbi.nlm.nih.gov/38211358/)
 
 ## **Description**
-It is a **Magnetic Resonance Imaging** dataset
+It is a **radiomics** dataset
 
 ## **Demography**
 + **Country:** U.S.A
