@@ -1,4 +1,4 @@
-# **Lohuizen et al., 2023 Image Dataset**
+# **Lohuizen et al., 2024 Image Dataset**
 **Article Title:** Assessing deep learning reconstruction for faster prostate MRI: visual vs. diagnostic performance metrics
 
 **_Article Link_:** [ref](https://link.springer.com/article/10.1007/s00330-024-10771-y)
