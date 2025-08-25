@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://link.springer.com/article/10.1007/s00261-017-1169-5)
 
 ## **Description**
-It is a **Magnetic Resonance Imaging** dataset
+It is a **radiomics** dataset
 
 ## **Demography**
 + **Country:** U.S.A
