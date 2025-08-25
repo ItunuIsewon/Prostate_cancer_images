@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://pubs.rsna.org/doi/10.1148/ryai.230362)
 
 ## **Description**
-It is a **Magnetic Resonance Imaging** dataset
+It is a **radiomics** dataset
 
 ## **Demography**
 + **Country:** Netherlands
