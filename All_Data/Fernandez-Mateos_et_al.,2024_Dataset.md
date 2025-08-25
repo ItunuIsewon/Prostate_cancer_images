@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://www.nature.com/articles/s43018-024-00787-0)
 
 ## **Description**
-It is an **Histopathological Image** dataset
+It is an **pathiomics** dataset
 
 ## **Demography**
 + **Country:** London
