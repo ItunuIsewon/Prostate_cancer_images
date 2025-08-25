@@ -1,4 +1,4 @@
-## **Shao et al., Image Dataset**
+## **Shao et al., 2024 Image Dataset**
 **Article Title:** Prostate Cancer Risk Stratification by Digital Histopathology and Deep Learning
 
 **_Article Link_:** [ref](https://ascopubs.org/doi/full/1a200/CCI.23.00184)
