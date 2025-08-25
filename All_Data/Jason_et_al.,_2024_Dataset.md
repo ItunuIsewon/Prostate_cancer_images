@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://pmc.ncbi.nlm.nih.gov/articles/PMC11366675/)
 
 ## **Description**
-It is a **Magentic Resonance Imaging** dataset.
+It is a **radiomics** dataset.
 
 ## **Demography**
 + **Country:** Netherlands
