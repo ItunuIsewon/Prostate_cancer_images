@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-023-11130-8)
 
 ## **Description**
-It is a **Magnetic Resonance Imaging** dataset
+It is a **radiomics** dataset
 
 ## **Demography**
 + **Country:** China
