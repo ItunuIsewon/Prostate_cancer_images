@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://ascopubs.org/doi/10.1200/PO.24.00145)
 
 ## **Description**
-It is an **Histopathological image** dataset
+It is an **pathiomics** dataset
 
 ## **Demography**
 + **Country:** 
