@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://www.sciencedirect.com/science/article/pii/S1361841524001166)
 
 ## **Description**
-It is an **Histopathological image** dataset
+It is an **pathiomics** dataset
 
 ## **Demography**
 + **Country:** Spain
