@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://academic.oup.com/jnci/article/116/10/1683/7695879)
 
 ## **Description**
-It is a **Magnetic Resonance Imaging** dataset
+It is a **radiomics** dataset
 
 ## **Demography**
 + **Country:** U.S.A
