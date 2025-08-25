@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://pubmed.ncbi.nlm.nih.gov/37307876/)
 
 ## **Description**
-It is an **histopathological images** dataset
+It is an **pathiomics** dataset
 
 ## **Demography**
 + **Country:** U.S.A
