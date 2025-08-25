@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://cancerimagingjournal.biomedcentral.com/articles/10.1186/s40644-024-00666-y)
 
 ## **Description**
-It is a **Magnetic Resonance Imaging** dataset
+It is a **radiomics** dataset
 
 ## **Demography**
 + **Country:** Portugal
