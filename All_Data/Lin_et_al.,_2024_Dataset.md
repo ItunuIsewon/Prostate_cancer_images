@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://pubs.rsna.org/doi/10.1148/radiol.230750)
 
 ## **Description**
-It is a **Magnetic Resonance Imaging** dataset
+It is a **radiomics** dataset
 
 ## **Demography**
 + **Country:** Singapore
