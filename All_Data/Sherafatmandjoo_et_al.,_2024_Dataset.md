@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://www.nature.com/articles/s41598-024-65354-0)
 
 ## **Description**
-It is a **Magnetic Resonance Imaging** dataset
+It is a **radiomics** dataset
 
 ## **Demography**
 + **Country:** Iran
