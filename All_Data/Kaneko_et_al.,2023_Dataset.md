@@ -5,7 +5,7 @@
 **_Article Link_:** [ref](https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/bju.15985)
 
 ## **Description**
-It is a **Magnetic Resonance Imaging** dataset
+It is a **radiomics** dataset
 
 ## **Demography**
 + **Country:** France
