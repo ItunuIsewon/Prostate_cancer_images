@@ -4,7 +4,7 @@
 **_Article Link_:** [ref](https://ascopubs.org/doi/full/1a200/CCI.23.00184)
 
 ## **Description**
-It is an **Histopathological Image** dataset
+It is an **pathiomics** dataset
 
 ## **Demography**
 + **Country:** Canada
