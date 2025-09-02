@@ -26,7 +26,7 @@ It is a **radiomics** dataset
 
 |**Status**|**Dataset Link**|**DOI**|
 |:---:|:---:|:---:|
-|Publicly available| [Dataset](https://www.cancerimagingarchive.net/nbia-search/?CollectionCriteria=PROSTATEx)| 10.1148/radiol.222276
+|Available upon request| [Dataset](https://www.cancerimagingarchive.net/nbia-search/?CollectionCriteria=PROSTATEx)| 10.1148/radiol.222276
 
 
   
