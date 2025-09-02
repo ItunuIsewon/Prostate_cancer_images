@@ -36,8 +36,7 @@ It is a **pathiomics** dataset
 
 
 ```
-WeisiXie1, Nicholas P. Reder, Can Koyuncu ,Patrick Leo ,Sarah Hawley , HongyiHuang ,ChenyiMao, Nadia Postupna, Soyoung Kang, Robert Serafin, Gan Gao, Qinghua Han, Kevin W. Bishop, Lindsey A. Barner, Pingfu Fu, Jonathan L. Wright, C. Dirk Keene, Joshua C. Vaughan, Andrew Janowczyk, Adam K. Glaser, Anant Madabhushi, Lawrence D. True, and Jonathan T.C. Liu (2022). Prostate Cancer Risk Stratification via Nondestructive 3D Pathology with Deep Learning–Assisted Gland Analysis. 10.1158/0008-5472.CAN-21-2843
-
+WeisiXie, Nicholas P. Reder, Can Koyuncu ,Patrick Leo ,Sarah Hawley , HongyiHuang ,ChenyiMao, Nadia Postupna, Soyoung Kang, Robert Serafin, Gan Gao, Qinghua Han, Kevin W. Bishop, Lindsey A. Barner, Pingfu Fu, Jonathan L. Wright, C. Dirk Keene, Joshua C. Vaughan, Andrew Janowczyk, Adam K. Glaser, Anant Madabhushi, Lawrence D. True, and Jonathan T.C. Liu (2022). Prostate Cancer Risk Stratification via Nondestructive 3D Pathology with Deep Learning–Assisted Gland Analysis. 10.1158/0008-5472.CAN-21-2843
 ```
 
 
